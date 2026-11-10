@@ -1,5 +1,0 @@
-@echo off
-rem Double-click to start Lineup and open it in your browser.
-cd /d "%~dp0"
-node server.js --open
-pause
