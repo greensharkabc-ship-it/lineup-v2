@@ -1,0 +1,13 @@
+{
+  "name": "lineup",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hackathons, meetups, conferences and contests from many sites, ranked for your city and interests.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
